@@ -33,7 +33,9 @@ export default function Contact({}: Props) {
             rel="noreferrer"
             className="flex items-center gap-2 hover:text-black dark:hover:text-white transition-all duration-200"
           >
-            <FaInstagram size={18} /> Instagram <FiExternalLink size={14} />
+            <FaInstagram size={18} />
+            Instagram
+            <FiExternalLink size={14} />
           </a>
 
           {/* LinkedIn */}
@@ -43,7 +45,9 @@ export default function Contact({}: Props) {
             rel="noreferrer"
             className="flex items-center gap-2 hover:text-black dark:hover:text-white transition-all duration-200"
           >
-            <FaLinkedinIn size={18} /> LinkedIn <FiExternalLink size={14} />
+            <FaLinkedinIn size={18} />
+            LinkedIn
+            <FiExternalLink size={14} />
           </a>
 
           {/* GitHub */}
@@ -53,7 +57,9 @@ export default function Contact({}: Props) {
             rel="noreferrer"
             className="flex items-center gap-2 hover:text-black dark:hover:text-white transition-all duration-200"
           >
-            <FaGithub size={18} /> GitHub <FiExternalLink size={14} />
+            <FaGithub size={18} />
+            GitHub
+            <FiExternalLink size={14} />
           </a>
         </div>
 
@@ -79,7 +85,11 @@ export default function Contact({}: Props) {
         <p>
           website designed and developed by{" "}
           <span className="text-blue-500">
-            <a target="_blank" href="#" rel="noreferrer">
+            <a
+              target="_blank"
+              href="https://github.com/Sriramdotcom"
+              rel="noreferrer"
+            >
               Sriram
             </a>
           </span>

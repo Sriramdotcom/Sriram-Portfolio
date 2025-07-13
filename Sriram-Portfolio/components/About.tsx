@@ -15,7 +15,7 @@ export default function About() {
     >
       {/* Image */}
       <Image
-        src={profilePic} // Replace with your correct path
+        src={profilePic}
         alt="Sriram Profile"
         width={280}
         height={350}
@@ -33,7 +33,7 @@ export default function About() {
         </div>
 
         <p className="text-gray-300 leading-relaxed">
-          Hello! I'm <span className="text-blue-400 font-semibold">Sriram Pidugu</span>, an aspiring
+          Hello! I&apos;m <span className="text-blue-400 font-semibold">Sriram Pidugu</span>, an aspiring
           <span className="text-blue-400 font-semibold"> Data Analyst</span> passionate about turning
           raw data into actionable insights. I specialize in tools like{" "}
           <span className="text-blue-400 font-semibold">SQL, Power BI, Excel, and Python</span>, and
@@ -47,13 +47,13 @@ export default function About() {
         </p>
 
         <p className="text-gray-300 leading-relaxed">
-          I'm also comfortable working with front-end frameworks like{" "}
+          I&apos;m also comfortable working with front-end frameworks like{" "}
           <span className="text-blue-400 font-semibold">Next.js</span>, and love creating clean,
           usable dashboards.
         </p>
 
         <p className="text-gray-300 leading-relaxed">
-          I'm currently looking for opportunities where I can support data-driven decision-making
+          I&apos;m currently looking for opportunities where I can support data-driven decision-making
           and bring creative solutions to real-world problems.
         </p>
       </div>

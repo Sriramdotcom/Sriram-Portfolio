@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "AI Resume Analyzer",
+      "content": "Built an AI tool that checks how well a resume matches a job description. Achieved 91% accuracy using Scikit-learn and logistic regression.",
+      "imgurl": "/projectSS/Resume.png",
+      "githubLink": "https://github.com/Sriramdotcom/ai-resume-analyzer",
+      "deployedLink": "#",
+      "tech": [
+        { "tech": "/skillsLogos/python.png" },
+        { "tech": "/skillsLogos/sklearn.webp" },
+        { "tech": "/skillsLogos/html.png" },
+        { "tech": "/skillsLogos/css.png" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Self-Supervised Learning for Autonomous Vehicle",
+      "content": "Created a CNN model to predict vehicle steering angles from Indian road video datasets. Improved lane detection by 18% in simulation tests.",
+      "imgurl": "/projectSS/Self.png",
+      "githubLink": "#",
+      "deployedLink": "#",
+      "tech": [
+        { "tech": "/skillsLogos/python.png" },
+        { "tech": "/skillsLogos/tensorflow.webp" },
+        { "tech": "/skillsLogos/opencv.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Personalized Travel Planning System",
+      "content": "Designed a smart travel planner using deep learning. Recommended destinations based on user preferences with 93% match accuracy.",
+      "imgurl": "/projectSS/Travel.png",
+      "githubLink": "#",
+      "deployedLink": "#",
+      "tech": [
+        { "tech": "/skillsLogos/python.png" },
+        { "tech": "/skillsLogos/django.png" },
+        { "tech": "/skillsLogos/html.png" },
+        { "tech": "/skillsLogos/css.png" }
+      ]
+    }
+  ]
+}

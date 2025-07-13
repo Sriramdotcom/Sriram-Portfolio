@@ -1,0 +1,31 @@
+[
+  {
+    "clogo": "/companyLogo/Internshala.png",
+    "title": "Web Development Intern",
+    "company": "Internshala",
+    "point1": "Built responsive web pages using HTML, CSS, and JavaScript.",
+    "point2": "Learned real-world project development workflow.",
+    "startDate": "Jan 2024",
+    "endDate": "Feb 2024"
+  },
+  {
+    "clogo": "/companyLogo/deloitte.png",
+    "title": "Data Analyst Intern",
+    "company": "Deloitte (Forage Virtual Internship)",
+    "point1": "Completed virtual internship simulating real client tasks.",
+    "point2": "Gained skills in data cleaning, visualization, and reporting.",
+    "startDate": "June 2025",
+    "endDate": "July 2025"
+  },
+  {
+    "clogo": "/companyLogo/deloitte.png",
+    "title": "Solutions Architecture Virtual Intern",
+    "company": "Amazon Web Services (via Forage)",
+    "point1": "Completed the AWS Solutions Architecture Job Simulation on Forage.",
+    "point2": "Designed scalable and cost-effective hosting architecture solutions.",
+    "point3": "Gained practical insights into cloud architecture, load balancing, and deployment strategies.",
+    "point4": "Delivered mock solutions similar to real-world AWS use cases.",
+    "startDate": "June 2025",
+    "endDate": "June 2025"
+  }
+]
